@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="1024" alt="AEGIS Logo by Riber Shamo Elias" src="https://github.com/user-attachments/assets/138e059f-9188-4cc9-a38d-9b8ca60dbf2c" />
+  <img width="200" height="200" alt="AEGIS Logo by Riber Shamo Elias" src="https://github.com/user-attachments/assets/138e059f-9188-4cc9-a38d-9b8ca60dbf2c" />
 
 </p>
 
