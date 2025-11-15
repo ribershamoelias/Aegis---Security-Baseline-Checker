@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" alt="Aegis Logo" width="200"/>
+  <img src="AEGIS.png" alt="Aegis Logo by Riber Shamo Elias" width="200"/>
 </p>
 
 # 🛡️ Aegis – Security Baseline Checker
